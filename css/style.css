@@ -16,7 +16,10 @@ p {
 }
 
 .button-collapse {
-  color: #26a69a;
+  color: red;
+}
+.background{
+    color: darkgrey;
 }
 
 .parallax-container {
@@ -28,6 +31,9 @@ p {
   .parallax-container .section {
     width: 100%;
   }
+.mainText{
+    font-family: 'Lobster', serif;
+}
 
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
